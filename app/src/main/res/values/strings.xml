@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="created_date">Created on: %1$s</string>
+    <string name="completed_date">Completed on: %1$s</string>
+    <string name="deadline">Deadline: %1$s</string>
+    <string name="no_deadline">No deadline set</string>
+</resources>
